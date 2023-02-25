@@ -1,9 +1,9 @@
 #include "main.h"
-	/**
-	 * main - print _putchar and a new line
-	 * Description: Prints the string "_putchar" to the standard output
-	 * Return: 0
-	 */
+/**
+ * main - print _putchar and a new line
+ * Description: Prints the string "_putchar" to the standard output
+ * Return: 0
+ */
 	int main(void)
 {
 	_putchar('_');
