@@ -1,6 +1,5 @@
-i#ifndef main_h
+#ifndef main_h
 	#define main_h
-
 
 	int _putchar(char);
 	void print_alphabet(void);
@@ -15,6 +14,6 @@ i#ifndef main_h
 	int add(int, int);
 	void print_to_98(int n);
 	void print_times_table(int n);
-
+int _putchar(char c);
 
 	#endif
