@@ -1,9 +1,16 @@
 #include "main.h"
 
-	/**
-	 * print_times_table - prints the n times table, starting with 0
-	 * @n: number of the times table
-	 */
+/**
+ * print_times_table - Prints the n times table
+ *
+ * @n: The number of times table (0 < n <= 15)
+ *
+ * Description: This function takes a positive integer n and prints the n times
+ * table, starting with 0 and going up to n. The output is aligned in columns
+ * with proper spacing.
+ *
+ * Return: No return value (void)
+ */
 	void print_times_table(int n)
 	{
 		int i, j, k;
