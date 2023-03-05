@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "main.h"
+=======
+iii#include "main.h"
+>>>>>>> 3da952dd89834cebc6dea087df38766953881e18
 /**
  * _strcat - concatenates two strings
  * @dest: input value
