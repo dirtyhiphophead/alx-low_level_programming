@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 #ifndef MAIN_H
+=======
+<<<<<<< HEAD
+#ifndef MAIN_H
+=======
+i#ifndef MAIN_H
+>>>>>>> 3da952dd89834cebc6dea087df38766953881e18
+>>>>>>> d6be71de9bae1f128b6b1874502cfc9865b4313c
 #define MAIN_H
 
 int _putchar(char c);
@@ -15,4 +23,12 @@ void print_number(int n);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 void print_buffer(char *b, int size);
 
+<<<<<<< HEAD
 #endif
+=======
+<<<<<<< HEAD
+#endif
+=======
+#endif`
+>>>>>>> 3da952dd89834cebc6dea087df38766953881e18
+>>>>>>> d6be71de9bae1f128b6b1874502cfc9865b4313c

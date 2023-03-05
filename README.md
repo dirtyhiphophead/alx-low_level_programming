@@ -1,1 +1,1 @@
-ALx low evel project
+More pointers, arrays and strings
